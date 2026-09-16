@@ -1,8 +1,10 @@
 16-Sep-2026
 
-<!-- notify 1/2 · dClO7TOJ -->
-## Notification 1/2
-Round: Round 1
-To: angellynn56@yahoo.com, angellyon24002@yahoo.com
-At: 2026-09-16 15:29:44
-Id: dClO7TOJ
+<!-- after round1 -->
+
+<!-- notify 2/2 -->
+## Notification 2/2
+Round: Round 2
+To: angelmam6@yahoo.com, angelmam812@yahoo.com
+At: 2026-09-16 15:29:53
+Id: jigSINCC
